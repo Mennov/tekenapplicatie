@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Teken_applicatie">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Teken_applicatie.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
